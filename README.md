@@ -1,5 +1,5 @@
 # Elev8te Performance
-## A Fitness Company
+A Fitness Company
 
 # About Us
 We are a fitness company located in the heart of Pheonix, Arizona.
